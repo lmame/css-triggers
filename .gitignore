@@ -1,4 +1,4 @@
 node_modules
 .DS_Store
-dist
 _suite/html
+package-lock.json
