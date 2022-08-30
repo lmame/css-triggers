@@ -15,3 +15,12 @@ Tells you what gets triggered by mutating a given CSS property.
 Apache 2.0. See [/LICENSE](/LICENSE)
 
 Please note: this is not a Google product
+
+
+Notes from Lmame:  
+*  Install nodeJs 10, if you have nvm:
+    *  nvm install 10.24.1
+* Change dependency in package.json from:
+* ```"gulp-sass": "^2.1.0",```
+* To:
+* ```"gulp-sass": "3.2.1",```
